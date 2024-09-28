@@ -1,2 +1,1 @@
-# 7z-lib
-Prebuilt 7z binaries
+Source Code available on: https://www.7-zip.org/
